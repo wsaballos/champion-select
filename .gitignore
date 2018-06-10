@@ -8,8 +8,9 @@
 
 # production
 /build
+
 # api keys
-/src/components/apiKeys.js
+/src/apiKeys.js
 
 # misc
 .DS_Store
